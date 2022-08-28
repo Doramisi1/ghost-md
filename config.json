@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6281368176386@s.whatsapp.net","6283802603905 @s.whatsapp.net","6283840588676@s.whatsapp.net"],
+  "ownerName": ["ega-ghost ID"],
+  "botName": "Ghost Store",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://youtube.com/c/ChristianID99",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/chris.tianid",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 90,
+  "limitCount": 1000,
+  "gcount": {
+	"prem": 99999,
+	"user": 1000
+  }
+}
